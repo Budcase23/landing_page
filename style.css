@@ -102,3 +102,40 @@ button {
 .quote h6 {
   text-align: end;
 }
+
+.call {
+  display: flex;
+  justify-content: space-between;
+  background-color: #3882f6;
+  padding: 50px 100px;
+  border-radius: 10px;
+}
+
+.last {
+  padding: 100px 200px;
+}
+
+.call p {
+  color: white;
+}
+.call h2 {
+  color: white;
+  font-weight: 900;
+}
+
+.call button {
+  border: 2px solid #ffffff;
+  padding: 10px 30px;
+}
+
+footer {
+  background-color: #1f2937;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+footer p {
+  color: white;
+  text-align: center;
+}
